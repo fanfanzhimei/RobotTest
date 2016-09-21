@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RobotTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">发送</string>
+
+    <string-array name="welcome_tips">
+        <item>主人，请问您有什么吩咐</item>
+        <item>小主，奴婢在此等候多时了</item>
+        <item>主人，欢迎归来</item>
+        <item>我是机器人小灵，很高兴为您服务</item>
+        <item>有什么可以帮到您的吗</item>
+        <item>我是爱回答问题的小灵，有什么可以帮到您的呢？</item>
+    </string-array>
+</resources>
